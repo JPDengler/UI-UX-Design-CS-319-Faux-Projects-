@@ -24,7 +24,6 @@ The SafeCare app is designed to assist family members in monitoring the activiti
 ### Key Features
 
 - **Alerts Page**: Displays real-time notifications about the patient's activities.
-    ![SafeCare - ALERTS](SAFECARE.png)
 - **Home Page**: Provides quick access to all major functions of the app, including alerts, patient status, live GPS tracking, and emergency contact.
 - **Login Page**: Secure login for existing users and account creation for new users.
 - **Status Page**: Shows detailed health metrics and activity status of the patient.
